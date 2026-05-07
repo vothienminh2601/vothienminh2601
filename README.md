@@ -1,109 +1,93 @@
-# Hi, I'm Võ Thiên Minh 👾
+<h1 align="center">Hi 👾, I'm Võ Thiên Minh</h1>
  
-**Unity Game Developer** · District 7, Ho Chi Minh City, VN · Open to remote work
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Unity+Game+Developer;Gameplay+Systems+%26+Tooling;Performance+Optimization;Always+Learning.+Always+Building." />
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <picture><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"></picture> About me
  
----
+<picture><img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250px"></picture>
  
-## About
+<br><br>
  
-I'm a **Unity Game Developer** specializing in gameplay systems, tooling, and performance optimization — with production experience delivering scalable game architecture across live and commercial projects.
+- 🏙️ Based in **District 7, Ho Chi Minh City**
+- 💼 Fresher Unity Developer @ **Wolffun Game Studio**
+- 🎮 Passionate about **gameplay systems**, **tooling** & **performance**
+- 🔍 Open to **remote opportunities** — [My GitHub](https://github.com/vothienminh2601)
+- 🎓 B.Eng Software Engineering — **Ton Duc Thang University**
+<br><br>
  
-Focused on designing scalable systems, improving development workflows, and optimizing performance to deliver polished and reliable player experiences.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <picture><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50px"></picture> Tech Stack
  
-Always learning. Always building.
+**Languages**
  
----
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+**Engines & Tools**
  
-## Experience
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <picture><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50px"></picture> Experience
  
-**Wolffun Game Studio** · Fresher Unity Developer · *Dec 2025 – May 2026*
-- Designed and implemented modular gameplay systems with focus on scalability and maintainability.
-- Built event-driven systems (quests, rewards, progression) supporting extensible content pipelines.
-- Integrated analytics and remote configuration for runtime tuning and feature control.
-- Optimized performance by analyzing CPU usage and GC behavior, improving frame stability.
-- Managed asset loading and memory usage using Addressables, reducing load time and improving resource management.
-**Tenefic Games Studio** · Freelance Unity Developer · *Mar 2025 – Dec 2025*
-- Designed custom Unity editor tools to automate level generation — reduced setup time by 40%.
-- Architected core gameplay systems with modular and extensible design.
-- Improved runtime performance via GC optimization and efficient object pooling.
-- Implemented async workflows using UniTask; built resolution-independent UI for multi-platform.
-**Apps Cyclone** · Intern Unity Developer · *Nov 2024 – Jan 2025*
-- Integrated Firebase services (Analytics, Remote Config, Realtime DB) into Unity projects.
-- Implemented authentication systems with external providers and managed third-party SDK integration.
----
+| Studio | Role | Period |
+|:--|:--|:--|
+| **Wolffun Game Studio** | Fresher Unity Developer | Dec 2025 – May 2026 |
+| **Tenefic Games Studio** | Freelance Unity Developer | Mar 2025 – Dec 2025 |
+| **Apps Cyclone** | Intern Unity Developer | Nov 2024 – Jan 2025 |
  
-## Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <picture><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50px"></picture> Projects
  
 <table>
   <tr>
     <td width="33%">
-      <h3>2D Tile Match Game</h3>
-      <p><em>Live Product · Jan 2026 – Apr 2026</em></p>
-      <p>Production-scale game. Designed core tile logic and interaction systems, implemented remote config-driven data systems, and achieved 20–30% fewer frame spikes via GC optimization.</p>
+      <h3>2D Tile Match</h3>
+      <p><em>Live · Jan – Apr 2026</em></p>
+      <p>Production game. Core tile logic, remote config data system, 20–30% fewer frame spikes.</p>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
     </td>
     <td width="33%">
       <h3>2D Match3 Game</h3>
-      <p><em>Freelance · Jul 2025 – Dec 2025</em></p>
-      <p>Designed core match logic, cascading systems, and item interactions. Built modular meta systems (progression, quests, economy) and editor pipelines for level design iteration.</p>
+      <p><em>Freelance · Jul – Dec 2025</em></p>
+      <p>Match logic, cascading systems, modular meta (progression, quests, economy), editor pipelines.</p>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
     </td>
     <td width="33%">
       <h3><a href="https://github.com/vothienminh2601">2D Tower Defense</a></h3>
       <p><em>Personal · May 2024 – Jun 2025</em></p>
-      <p>Grid-based architecture with A* pathfinding, dynamic wave spawning, configurable difficulty scaling, and data-driven balancing tools.</p>
+      <p>A* pathfinding, wave spawning, grid placement, data-driven difficulty balancing.</p>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
     </td>
   </tr>
 </table>
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <picture><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50px"></picture> Get in Touch
  
-## Tech Stack
+<p align="center">
+  <a href="https://www.linkedin.com/in/vothienminh">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vothienminh2601">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+  </a>
+  <a href="mailto:vothienminh2601@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
  
-**Core**
-`Unity 2D/3D` `C#` `Gameplay Programming`
- 
-**Performance**
-`Profiling` `GC Optimization` `Object Pooling` `Addressables`
- 
-**Tools & Libraries**
-`DOTween` `UniTask` `Firebase` `AdMob`
- 
-**Also Familiar With**
-`C++` `Python` `Java` `HTML` `CSS` `Node.js` `React`
- 
-**Practices**
-`OOP` `SOLID Principles` `Design Patterns` `Agile / Scrum`
- 
----
- 
-## At a Glance
- 
-| 🎮 Projects Shipped | 💼 Years Experience | 🔁 Curiosity |
-|:-:|:-:|:-:|
-| 5+ | 1.5+ | ∞ |
- 
----
- 
-## Education & Certificates
- 
-🎓 **Ton Duc Thang University** — Bachelor of Software Engineering *(2020 – 2025)*
- 
-📜 Agile Development & Scrum Framework — Techbase Vietnam *(Dec 2022)*
- 
-📜 B1 Preliminary English Test (PET) — Grade: B1
- 
----
- 
-## Get in Touch
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vothienminh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vothienminh2601@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/vothienminh2601)
- 
----
- 
-<p align="right"><sub>Võ Thiên Minh · Unity Game Developer</sub></p>
